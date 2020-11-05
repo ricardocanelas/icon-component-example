@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/icon-component-example/static/css/main.8df87162.chunk.css",
+    "main.js": "/icon-component-example/static/js/main.b6c7e760.chunk.js",
+    "main.js.map": "/icon-component-example/static/js/main.b6c7e760.chunk.js.map",
+    "runtime-main.js": "/icon-component-example/static/js/runtime-main.fc6629fc.js",
+    "runtime-main.js.map": "/icon-component-example/static/js/runtime-main.fc6629fc.js.map",
+    "static/js/2.2105bdc1.chunk.js": "/icon-component-example/static/js/2.2105bdc1.chunk.js",
+    "static/js/2.2105bdc1.chunk.js.map": "/icon-component-example/static/js/2.2105bdc1.chunk.js.map",
+    "static/js/3.1fb5e6b5.chunk.js": "/icon-component-example/static/js/3.1fb5e6b5.chunk.js",
+    "static/js/3.1fb5e6b5.chunk.js.map": "/icon-component-example/static/js/3.1fb5e6b5.chunk.js.map",
+    "index.html": "/icon-component-example/index.html",
+    "static/css/main.8df87162.chunk.css.map": "/icon-component-example/static/css/main.8df87162.chunk.css.map",
+    "static/js/2.2105bdc1.chunk.js.LICENSE.txt": "/icon-component-example/static/js/2.2105bdc1.chunk.js.LICENSE.txt",
+    "static/media/arrow-right-circle.614b3b22.svg": "/icon-component-example/static/media/arrow-right-circle.614b3b22.svg",
+    "static/media/logo.36415415.svg": "/icon-component-example/static/media/logo.36415415.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc6629fc.js",
+    "static/js/2.2105bdc1.chunk.js",
+    "static/css/main.8df87162.chunk.css",
+    "static/js/main.b6c7e760.chunk.js"
+  ]
+}
