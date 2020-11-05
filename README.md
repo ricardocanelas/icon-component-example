@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a simple example of how you can create your own icon component.
 
-See the examples here - https://ricardocanelas.github.io/icon-component-example
+See the examples here - https://ricardocanelas.github.io/icon-component-example/
 
 ## <Icon>
 
