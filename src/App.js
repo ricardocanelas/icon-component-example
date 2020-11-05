@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import Icon from './components/Icon'
+
+const codeString = `<Icon name="Logo" color="red" />
+<Icon name="Logo" color="blue" size={74} />
+<hr />
+<Icon name="ArrowRight" />
+<Icon name="ArrowRight" color="blue" />
+<Icon name="ArrowRight" color="white" fill="blue" />
+<Icon name="ArrowRight" color="white" fill="blue" size={48} />
+<Icon name="ArrowRight" color="white" fill="blue" direction="top" />
+`
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="icons-section">
+        <Icon name="Logo" color="red" />
+        <Icon name="Logo" color="blue" size={74} />
+        <hr />
+        <Icon name="ArrowRight" />
+        <Icon name="ArrowRight" color="blue" />
+        <Icon name="ArrowRight" color="white" fill="blue" />
+        <Icon name="ArrowRight" color="white" fill="blue" size={48} />
+        <Icon name="ArrowRight" color="white" fill="blue" direction="top" />
+      </div>
+      <div className="code-section">
+        <pre>{codeString}</pre>
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
